@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software no Instituto Nacional de Telecomunicações - INATEL.
-- 💼 Trabalhando como estagiário em desenvolvimento no INATEL em parceiria com a Huawei.
+- 💼 Trabalhando como desenvolvedor de software pela Redera Technologies.
 - 🌱 Aprendendo mais sobre Java e Python.
 
 ## Minhas Skills
